@@ -1,0 +1,5 @@
+slack-bolt==1.18.3
+slack-sdk==3.26.1
+spotipy==2.23.0
+gunicorn==21.2.0
+flask==3.0.0 
